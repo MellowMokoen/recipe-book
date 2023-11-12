@@ -1,13 +1,11 @@
-
 import './App.css';
+import RecipeListPage from './RecipeListPage';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        
-        
-      </header>
+    <div>
+      <RecipeListPage />
+    
     </div>
   );
 }
