@@ -1,4 +1,3 @@
-
 import './App.css';
 import RecipeListPage from './RecipeListPage';
 
