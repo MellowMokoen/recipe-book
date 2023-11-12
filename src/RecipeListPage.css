@@ -1,4 +1,9 @@
 img {
-    width: 100px;
+    width: 200px;
+    margin: 30px;
+    height: 220px;
+    max-width: 400px;
+    border-radius: 10px 10px;
+    box-shadow: 5px 5px 3px rgb(199, 128, 128);
     
 }

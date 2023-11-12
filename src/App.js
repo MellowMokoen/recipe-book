@@ -3,7 +3,7 @@ import RecipeListPage from './RecipeListPage';
 
 function App() {
   return (
-    <div>
+    <div className='App'>
       <RecipeListPage />
     
     </div>
