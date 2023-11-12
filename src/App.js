@@ -1,3 +1,4 @@
+
 import './App.css';
 import RecipeListPage from './RecipeListPage';
 
@@ -7,7 +8,5 @@ function App() {
       <RecipeListPage />
     
     </div>
-  );
-}
 
 export default App;
