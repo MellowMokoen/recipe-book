@@ -8,5 +8,7 @@ function App() {
       <RecipeListPage />
     
     </div>
+  );
+}
 
 export default App;
