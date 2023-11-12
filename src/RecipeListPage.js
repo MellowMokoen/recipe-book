@@ -16,19 +16,19 @@ export default function() {
             <h1>Improve your cooking skills</h1>
          <div className = "row">
             <div className="col-md-4">
-            <img src= {lasagne} />
-            <img src= {beef} />
-            <img src= {rice} />
+            <img src= {lasagne} alt="lasagne"/>
+            <img src= {beef} alt="beef burger"/>
+            <img src= {rice}  alt="rice tomatoes"/>
             </div>
             <div className="col-md-4">
-            <img src= {pizza} />
-            <img src= {stake} />
-            <img src= {cheese} />
+            <img src= {pizza} alt="pizza"/>
+            <img src= {stake} alt="beef stake"/>
+            <img src= {cheese} alt="cheese burger"/>
             </div>
             <div className="col-md-4">
-            <img src= {noodles} />
-            <img src= {pasta} />
-            <img src= {chicken} />
+            <img src= {noodles} alt="noodles"/>
+            <img src= {pasta} alt="chicken pasta"/>
+            <img src= {chicken} alt="full roasted chicken"/>
             </div>
          </div>
         </div>
