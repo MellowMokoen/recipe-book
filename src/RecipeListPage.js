@@ -13,7 +13,7 @@ import stake from './images/stake.jpg';
 export default function() {
     return (
         <div>
-            <h1></h1>
+            <h1>Find your favorite meal and get to the kitchen</h1>
          <div className = "row">
             <div className="col-md-4 beef-row">
             <img src= {lasagne} alt="lasagne"/>
